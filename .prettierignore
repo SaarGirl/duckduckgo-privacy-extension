@@ -1,7 +1,0 @@
-build/**/*
-docs/**/*
-.github/**/*
-**/*.md
-**/*.html
-**/*.json
-**/*.har
